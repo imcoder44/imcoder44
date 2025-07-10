@@ -1,152 +1,160 @@
-<h1 align="center">Hi 👋, I'm Tanishq Arun Ingole</h1>
+<h1 align="center">🛡️ Tanishq Arun Ingole</h1>
+<p align="center"><strong>Cybersecurity Enthusiast | Ethical Hacker (in progress) | Network Ninja | Malware Analyst</strong></p>
 <p align="center">
-  <strong>B.Tech CSE Student @ IIIT Pune | Cybersecurity & Networking Enthusiast | Ethical Hacker in Progress</strong>
+  <img src="https://img.shields.io/badge/OSINT-Hunter-blue?style=flat-square&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Red%20Team-Offensive-brightgreen?style=flat-square&logo=virustotal">
+  <img src="https://img.shields.io/badge/Linux-Terminal-black?style=flat-square&logo=linux">
 </p>
 
 ---
 
-## 🧠 About Me
+```
 
-> Passionate about breaking, building, and securing systems!
+> whoami
+> 👨‍💻 I'm Tanishq, a B.Tech CSE student @ IIIT Pune with a deep passion for cybersecurity, ethical hacking, and network forensics.
 
-I'm a cybersecurity enthusiast who loves building tools, solving problems, and understanding how systems work under the hood. From malware analysis to writing my own recon scanners, I enjoy working at the intersection of **network security, ethical hacking, and full-stack backend development**.
+````
 
-- 💻 I write code in `Java`, `Python`, `C/C++`, and `Bash`
-- 🌐 I'm working with firewalls, scanners, malware sandboxes, and secure socket programming
-- 📚 Constantly learning — currently diving deep into **reverse engineering**, **penetration testing**, and **threat intelligence**
-
----
-
-## 🏆 Internship Experience
-
-### 🔹 **Cyber Gyan Virtual Internship – CDAC, Noida** (Dec 2024 – Jan 2025)
-**Project:** *Streamlining Malware Analysis using Cuckoo Sandbox*
-
-- Built an automated malware analysis lab using **Cuckoo Sandbox**, **VirtualBox**, and **Wireshark**
-- Analyzed malware behavior across system calls, dropped files, network patterns, and memory
-- Configured a secure and scalable virtualized environment for threat simulation
-
-📄 [Project Report](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox/blob/main/Project_.pdf)  
-📊 [Presentation Slides](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox/blob/main/Project_ppt.pdf)
+💣 I break things to understand them.  
+🔬 I analyze malware to learn from it.  
+🛠️ I build tools to help others defend.  
+📚 CEH Certified (in-progress) | Ethical Hacker mindset
 
 ---
 
-## 🚀 Projects
+## 🧪 Internship: CDAC | Cyber Gyan Program
 
-### 🔎 [Streamlining Malware Analysis: Cuckoo Sandbox](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox)
-> Automated dynamic malware analysis using an isolated virtual environment
-- Custom setup of **Cuckoo Sandbox** on Linux
-- Collected behavioral, memory, and network data from malware samples
-- Generated detailed analysis reports for threat intelligence
+**Title:** `Streamlining Malware Analysis using Cuckoo Sandbox`  
+🧠 Built a virtual malware analysis lab with:
 
----
+- ⚙️ **Cuckoo Sandbox** for dynamic malware execution
+- 🧩 **Wireshark** for packet sniffing
+- 🔍 Extracted malware behavior: dropped files, memory traces, C2 connections
 
-### 🧰 [Network Toolkit](https://github.com/imcoder44/network-toolkit)
-> A collection of Python tools to explore and test network security concepts
-- Includes port scanners, ARP spoofers, MAC changers, DoS testers, IP locators, and more
-- Uses `scapy`, `socket`, and `subprocess` for deep packet crafting and manipulation
+📄 [Final Report](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox/blob/main/Project_.pdf)  
+📊 [Project Slides](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox/blob/main/Project_ppt.pdf)
 
 ---
 
-### 🌐 [Basic Networking](https://github.com/imcoder44/Basic-Networking)
-> Learn networking the hacker way
-- Scripts that implement ping sweeps, traceroutes, TCP/UDP sockets, and simple chat servers
-- Best suited for anyone beginning their journey in networks and Python scripting
+## 🧰 Cyber Arsenal (Projects)
+
+### 🔎 [`Streamlining Malware Analysis`](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox)
+`> cuckoo submit malware.exe`
+- Virtualized dynamic analysis of malware in isolated environment
+- Captures file behavior, network traffic, system calls
 
 ---
 
-### 🕵️ [Recon Toolkit](https://github.com/imcoder44/Recon)
-> OSINT & Reconnaissance automation suite for ethical hackers
-- WHOIS lookup, DNS scanning, port banner grabbing, and subdomain enumeration
-- Built to automate the info-gathering phase in penetration testing
+### 🧠 [`Network Toolkit`](https://github.com/imcoder44/network-toolkit)
+`> python dos.py`
+- Tools for ARP spoofing, MAC changer, DoS, IP tracker
+- Crafted with Scapy & raw sockets for pentesters
 
 ---
 
-### 🤖 [SE_Tools_W_AI](https://github.com/imcoder44/SE_Tools_W_AI)
-> Bringing AI into software engineering workflows
-- Built mini-tools for idea generation, requirement analysis, UML generation using Python + AI
-- Helps developers visualize their projects from concept to code
+### 🌐 [`Basic Networking`](https://github.com/imcoder44/Basic-Networking)
+- Socket scripts to simulate traceroute, TCP/UDP chat, ping sweep
+- Ideal for foundational packet understanding
 
 ---
 
-### 📡 [Nmap Scanner](https://github.com/imcoder44/nmap-scanner)
-> CLI wrapper around the powerful `nmap` scanner
-- Auto-runs scans with OS detection, port range, and XML parsing
-- Simplifies nmap usage for beginners & integrates well into security pipelines
+### 🕵️ [`Recon`](https://github.com/imcoder44/Recon)
+`> python recon.py example.com`
+- Automates info gathering: DNS, WHOIS, subdomain scan
+- Fast & scriptable for red team use
 
 ---
 
-## 🧰 Tech Stack & Skills
-
-### 🖥️ **Languages**
-`Java` • `Python` • `C/C++` • `Bash` 
-
-### 🔐 **Cybersecurity Tools**
-`Wireshark` • `Cuckoo Sandbox` • `Nmap` • `RegRipper` • `FTK Imager` • `Burp Suite`  
-`Snort` • `Nessus` • `OpenVAS` • `Metasploit` • `Nikto` • `Hydra`
-
-### 🛠️ **Web & Backend**
-`Socket Programming` • `Spring Boot` • `MySQL` • `PostgreSQL`
-
-### 💻 **Dev Tools & Platforms**
-`Linux` • `Windows` • `Android` • `Kali Linux` • `Git` • `VirtualBox` • `GitHub Actions`
-
-### ⚡ **Domains & Focus Areas**
-- Malware Analysis & Reverse Engineering  
-- Ethical Hacking & Red Teaming  
-- Network Forensics & Intrusion Detection  
-- Secure Software Development  
-- OSINT & Reconnaissance Automation  
-- CEH (Certified Ethical Hacker) — *In Progress*
+### 🤖 [`SE_Tools_W_AI`](https://github.com/imcoder44/SE_Tools_W_AI)
+- Using AI to build software faster: idea generator, UML assistant, analyzer
+- Prototype project combining software engineering + automation
 
 ---
 
-## 📫 Let's Connect
+### 📡 [`Nmap Scanner`](https://github.com/imcoder44/nmap-scanner)
+`> python scanner.py -t 192.168.1.1`
+- Wrapper over `nmap` for service detection, OS fingerprinting, and exportable XML reports
 
-| Platform     | Link                                                                 |
-|--------------|----------------------------------------------------------------------|
-| 🔗 LinkedIn   | [tanishq-ingole-161a7926b](https://www.linkedin.com/in/tanishq-ingole-161a7926b/) |
-| 🐙 GitHub     | [imcoder44](https://github.com/imcoder44)                            |
-| 📧 Email      | tanishqingole44@gmail.com                                            |
-| 📱 Contact No | +91 8600756454                                                       |
+---
+
+## 🎯 Skills Snapshot
+
+### 💻 Programming
+`Python` • `Java` • `C/C++` • `Bash` 
+
+### 🧠 Cybersecurity Tools
+`Nmap` • `Wireshark` • `Burp Suite` • `FTK Imager` • `Snort` • `Nessus` • `OpenVAS` • `Cuckoo Sandbox` • `RegRipper` • `Hydra` • `Nikto`
+
+### 🧪 Domains
+- Malware Analysis & Dynamic Sandbox Testing  
+- Network Forensics & Packet Dissection  
+- Vulnerability Scanning & Exploit Automation  
+- Red Teaming / Penetration Testing  
+- Secure Socket Programming  
+- OSINT Recon & Enumeration  
+- Ethical Hacking (CEH in-progress)
+
+### 🧰 Dev & Infra
+`Spring Boot` • `Socket Programming` • `MySQL` • `PostgreSQL`  
+`Linux` • `Kali` • `Windows` • `Android` • `VirtualBox` • `GitHub Actions`
+
+---
+
+## 👨‍💻 Terminal Dashboard
+
+```bash
+# Current Status:
+echo "Learning reverse engineering | Hunting CVEs | Building infosec tools"
+````
+
+```bash
+# Certifications
+[CEH - Certified Ethical Hacker] (In Progress)
+```
+
+```bash
+# Operating Systems:
+Windows | Linux (Kali, Ubuntu) | Android
+```
+
+---
+
+## 🔗 Connect with Me
+
+| Platform    | Handle / Link                                                                      |
+| ----------- | ---------------------------------------------------------------------------------- |
+| 🐙 GitHub   | [@imcoder44](https://github.com/imcoder44)                                         |
+| 💼 LinkedIn | [@tanishq-ingole-161a7926b](https://www.linkedin.com/in/tanishq-ingole-161a7926b/) |
+| 📧 Email    | [tanishqingole44@gmail.com](mailto:tanishqingole44@gmail.com)                      |
+| 📱 Phone    | +91 8600756454                                                                     |
 
 ---
 
 ## 📄 Resume & Portfolio
 
-- 📄 [View My Resume (Google Drive)](https://drive.google.com/your-resume-link)
-- 🌐 [Portfolio Website](https://github.com/imcoder44/portfolio) *(Coming Soon)*
+📄 [Resume (Google Drive)](https://drive.google.com/your-resume-link)
+🌐 [Portfolio Website (Coming Soon)](https://github.com/imcoder44/portfolio)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imcoder44&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcoder44&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imcoder44&theme=radical&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcoder44&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 💡 Quote I Live By
+## 🧠 Quote of the Day
 
-> "Security isn't a product, it's a process." — **Bruce Schneier**
+```
+“Hack the planet — but ethically.”  
+"Security isn’t a product, it’s a process.” — Bruce Schneier
+```
 
-⭐️ *If you like my projects, consider starring them. I'm always open to collaboration and learning together!*
+---
 
+⭐ If you find my tools useful, give them a ⭐ — it keeps me caffeinated ☕ and hacking harder 🧠
 
-
-<!--
-**imcoder44/imcoder44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
