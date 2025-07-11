@@ -31,8 +31,8 @@
 - 🧩 **Wireshark** for packet sniffing
 - 🔍 Extracted malware behavior: dropped files, memory traces, C2 connections
 
-📄 [Final Report](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox/blob/main/Project_.pdf)  
-📊 [Project Slides](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox/blob/main/Project_ppt.pdf)
+📄 [Final Report](https://github.com/imcoder44/Streamlining-Malware-Analysis-Introducing-Cuckoo-Sandbox/blob/main/Project_.pdf)  
+📊 [Project Slides](https://github.com/imcoder44/Streamlining-Malware-Analysis-Introducing-Cuckoo-Sandbox/blob/main/Project_ppt.pdf)
 
 ---
 
