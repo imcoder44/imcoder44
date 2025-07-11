@@ -52,7 +52,7 @@
 ---
 
 ### 🕵️ [`Recon`](https://github.com/imcoder44/Recon)
-`> python recon.py example.com`
+`> ./recon.sh example.com`
 - Automates info gathering: DNS, WHOIS, subdomain scan
 - Fast & scriptable for red team use
 
