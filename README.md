@@ -38,17 +38,10 @@
 
 ## 🧰 Cyber Arsenal (Projects)
 
-### 🔎 [`Streamlining Malware Analysis`](https://github.com/imcoder44/Streamlining-Malware-Analysis-CuckooSandbox)
+### 🔎 [`Streamlining Malware Analysis`](https://github.com/imcoder44/Streamlining-Malware-Analysis-Introducing-Cuckoo-Sandbox/tree/main)
 `> cuckoo submit malware.exe`
 - Virtualized dynamic analysis of malware in isolated environment
 - Captures file behavior, network traffic, system calls
-
----
-
-### 🧠 [`Network Toolkit`](https://github.com/imcoder44/network-toolkit)
-`> python dos.py`
-- Tools for ARP spoofing, MAC changer, DoS, IP tracker
-- Crafted with Scapy & raw sockets for pentesters
 
 ---
 
@@ -125,7 +118,7 @@ Windows | Linux (Kali, Ubuntu) | Android
 | ----------- | ---------------------------------------------------------------------------------- |
 | 🐙 GitHub   | [@imcoder44](https://github.com/imcoder44)                                         |
 | 💼 LinkedIn | [@tanishq-ingole-161a7926b](https://www.linkedin.com/in/tanishq-ingole-161a7926b/) |
-| 📧 Email    | [tanishqingole44@gmail.com](mailto:tanishqingole44@gmail.com)                      |
+| 📧 Email    | [tanishqingole766@gmail.com](mailto:tanishqingole766@gmail.com)                      |
 | 📱 Phone    | +91 8600756454                                                                     |
 
 ---
