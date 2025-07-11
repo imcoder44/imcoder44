@@ -126,7 +126,7 @@ Windows | Linux (Kali, Ubuntu) | Android
 ## 📄 Resume & Portfolio
 
 📄 [Resume (Google Drive)](https://drive.google.com/your-resume-link)
-🌐 [Portfolio Website (Coming Soon)](https://github.com/imcoder44/portfolio)
+🌐 [Portfolio Website](https://o-mipro.netlify.app/)
 
 ---
 
