@@ -58,9 +58,9 @@
 
 ---
 
-### 🤖 [`SE_Tools_W_AI`](https://github.com/imcoder44/SE_Tools_W_AI)
-- Using AI to build software faster: idea generator, UML assistant, analyzer
-- Prototype project combining software engineering + automation
+### 🤖 [`linux-fuzzer`](https://github.com/imcoder44/linux-fuzzer)
+- Generates, mutates, and injects malformed inputs to test executables
+- Detects crashes, logs anomalies, and supports secure software development
 
 ---
 
